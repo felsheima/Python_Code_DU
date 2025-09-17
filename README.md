@@ -1,2 +1,2 @@
 # Python_Code_DU
-All my python code from my masters program at DU
+This repository is a collection of all my Python creations at DU
