@@ -1,6 +1,9 @@
 ## Python Projects - University of Denver Master's Program
 This repository contains a curated collection of Python projects completed as part of my graduate coursework at the University of Denver. Each project demonstrates key programming principles, data analysis techniques, and software development best practices acquired throughout my academic studies.
 
+*This repository is being actively maintained and updated as I complete new projects throughout my program.*
+
+
 ## Table of Contents 
 - [Introduction](#introduction)
 - [Python Programming Projects](#python-programming-projects)
