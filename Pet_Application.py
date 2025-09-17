@@ -1,6 +1,8 @@
-# Homework_1
+# Pet Application
 # Allison Felsheim
 # Python Programming 
+
+# This assignment required the use of tuples.  
 
 # This part asks for information about each pet up for adoption
 
@@ -8,6 +10,8 @@ pet_type_1 = input('Enter the pet type: ').lower()
 pet_sex_1 = input('Enter the pet sex: (male/female) ').lower()
 pet_age_1 = int(input('Enter the pet age: '))
 pet_vaccinated_1 = input('Enter pet vaccination status: (yes/no) ').lower()
+
+# Had to use this if statement to fulfill my requirment for a boolean. The boolean added onto the beginning of the input statement for pet_vaccinated was not properly executing. 
 
 if pet_vaccinated_1 == "yes":
     vaccinated_1 = True
@@ -79,8 +83,10 @@ else:
     
 pet_5 = (pet_type_5, pet_sex_5, pet_age_5, vaccinated_5)
 
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Pet application 
+# This part of my code is asking the user to input what pet they are looking to adopt. 
+
 type_of_pet = str(input("Enter the type of pet you're trying to adopt: ")).lower()
 
 age = int(input("Enter the maximum age of the pet you're looking to adopt: "))
@@ -103,7 +109,8 @@ else:
 
 pet_application = (type_of_pet, age, gender, vaccinated) 
 
-# Function to compare tuples
+# This function is used to compare the tuples of all the pets I created and my users input for what kind of pet they wanted to adopt 
+
 def matches(application, pet):
     return (
         application[0] == pet[0] and
@@ -112,8 +119,10 @@ def matches(application, pet):
         application[3] == pet[3]
     )
 
-# Check for matches
+# This is my default value before the matching logic runs, in the event that there is no pet match 
 matched_pet = None
+
+#This is where the matching starts 
 
 if matches(pet_application, pet_1):
     print("Your application matches Pet 1")
