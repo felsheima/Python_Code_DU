@@ -2,12 +2,12 @@
 This repository contains a curated collection of Python projects completed as part of my graduate coursework at the University of Denver. Each project demonstrates key programming principles, data analysis techniques, and software development best practices acquired throughout my academic studies.
 ## Table of Contents 
 -[Introduction](#introduction)
--[Python Programming Fall 2025](#python programming fall 2025)
--[Computer Systems Fall 2025](#computer systems fall 2025)
--[Technical Skills Demonstrated](#technical skills demonstrated)
--[Key Learning Outcomes](#key learning outcomes) 
--[Project Highlights Preview](#project highlights preview)
--[Professional Links](#professional links)
+-[Python Programming Fall 2025](#python_programming_fall_2025)
+-[Computer Systems Fall 2025](#computer_systems_fall_2025)
+-[Technical Skills Demonstrated](#technical_skills_demonstrated)
+-[Key Learning Outcomes](#key_learning_outcomes) 
+-[Project Highlights Preview](#project_highlights_preview)
+-[Professional Links](#professional_links)
 
 
 # Introduction
