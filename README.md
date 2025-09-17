@@ -3,12 +3,13 @@ This repository contains a curated collection of Python projects completed as pa
 
 ## Table of Contents 
 - [Introduction](#introduction)
-- [Python Programming Fall 2025](#python_programming_fall_2025)
-- [Computer Systems Fall 2025](#computer_systems_fall_2025)
-- [Technical Skills Demonstrated](#technical_skills_demonstrated)
-- [Key Learning Outcomes](#key_learning_outcomes) 
-- [Project Highlights Preview](#project_highlights_preview)
-- [Professional Links](#professional_links)
+- [Python Programming Projects](#python-programming-projects)
+- [Systems & Infrastructure Projects](#systems-infrastructure-projects)
+- [Cybersecurity Applications](#cybersecurity-applications)
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)
+- [Key Learning Outcomes](#key-learning-outcomes)
+- [Featured Projects](#featured-projects)
+- [Professional Links](#professional-links)
 
 
 # Introduction
@@ -18,7 +19,7 @@ This repository represents my academic journey in developing advanced computer s
 
 My goal is to bridge theoretical knowledge with real-world applications, showcasing technical proficiency and continuous learning to prospective employers and collaborators in the cybersecurity field.
 
-# Python Programming Fall 2025 
+# Python Programming Projects
 This collection demonstrates progressive mastery of Python fundamentals through practical applications including data structures, algorithms, user interfaces, and real-world problem solving.
 
 **Projects Include:**
