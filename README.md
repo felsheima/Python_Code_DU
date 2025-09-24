@@ -26,5 +26,13 @@ My goal is to bridge theoretical knowledge with real-world applications, showcas
 This collection demonstrates progressive mastery of Python fundamentals through practical applications including data structures, algorithms, user interfaces, and real-world problem solving.
 
 **Projects Include:**
-- **Pet Adoption Matching System:** Interactive matching algorithm with data validation and financial calculations [(Pet_Application.py)](Pet_Application.py) 
-  
+- **Pet Adoption Matching System:** Interactive matching algorithm with data validation and financial calculations [(Pet_Application.py)](Pet_Application.py)
+- **Function-Based Utilities Suite:** A collection of beginner-to-intermediate Python functions demonstrating input handling, unit conversion, financial estimation, and modular design. Includes:
+  - BMI Calculator
+  - Time Conversion (seconds to hours/minutes/seconds)
+  - Unit Conversion (miles ↔ kilometers)
+  - Currency and Area Conversion (euros/square meters to USD/square feet)
+  - Road Trip Cost Estimator
+  - Home Insulation Cost Calculator
+  - Midpoint Finder (imported from [bmi_calculator](bmi_calculator.py))
+  [View full implementation in functions.py](functions.py)
