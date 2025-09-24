@@ -26,5 +26,5 @@ My goal is to bridge theoretical knowledge with real-world applications, showcas
 This collection demonstrates progressive mastery of Python fundamentals through practical applications including data structures, algorithms, user interfaces, and real-world problem solving.
 
 **Projects Include:**
-- **Pet Adoption Matching System:** Interactive matching algorithm with data validation and financial calculations [Pet Application (Pet_Application.py)](Pet_Application.py) 
+- **Pet Adoption Matching System:** Interactive matching algorithm with data validation and financial calculations [(Pet_Application.py)](Pet_Application.py) 
   
