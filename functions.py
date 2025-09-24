@@ -74,7 +74,7 @@ if __name__ == "__main__":
     print('')
 
     #This line of code is importing my BMI and midpoint function from my extra_functions file within my folder to run a BMI calculator and midpoint number calculator 
-    from extra_functions import midpoint
+    from bmi_calculator import midpoint
 
     print('')
     print('Extra functions optional output') 
