@@ -5,6 +5,9 @@ import socket
 import logging
 import datetime
 
+#Configure logging
+logging.basicConfig(filename='honeypot.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+
 def honeypot(host='0.0.0.0', port=80):
     #1. Create a socket object 
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
