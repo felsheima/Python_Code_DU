@@ -36,3 +36,4 @@ This collection demonstrates progressive mastery of Python fundamentals through 
   - Home Insulation Cost Calculator
   - Midpoint Finder (imported from [bmi_calculator](bmi_calculator.py))
   [View full implementation in functions.py](functions.py)
+- **Movie Menu Selection:** Interactive menu for a simple movie databse. Users can view all movies, add new entries, update ratings, remove movies, calculate average ratings, and get recommendations by genre or top-rated titles [(movie_slection.py)](movie_selection.py)
