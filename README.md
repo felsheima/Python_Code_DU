@@ -23,7 +23,7 @@ This repository represents my academic journey in developing advanced computer s
 My goal is to bridge theoretical knowledge with real-world applications, showcasing technical proficiency and continuous learning to prospective employers and collaborators in the cybersecurity field.
 
 # Python Programming Projects
-This collection demonstrates progressive mastery of Python fundamentals through practical applications including data structures, algorithms, user interfaces, and real-world problem solving.
+This collection demonstrates progressive mastery of Python fundamentals through practical applications including data structures, algorithms, user interfaces, and real-world problem solving. 
 
 **Projects Include:**
 - **Pet Adoption Matching System:** Interactive matching algorithm with data validation and financial calculations [(Pet_Application.py)](Pet_Application.py)
