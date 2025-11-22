@@ -1,4 +1,3 @@
-#Allison Felsheim and Morgan Felsheim
 #Final project Ceasar Cipher
 
 class CaesarCipher:
