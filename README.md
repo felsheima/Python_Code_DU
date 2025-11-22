@@ -40,6 +40,7 @@ This collection demonstrates progressive mastery of Python fundamentals through 
 
 # Cybersecurity Applications
 This collection demonstrates practical applications of cybersecurity concepts through a series of hands-on projects that explore threat detection, network monitoring, and secure system design. 
+- **Caesar Cypher Project:** A Python implementation of the classic Caesar cipher encryption technique with default, custom, and brute force shift options and a text analysis. [(caesar_cipher_project.py)](caesar_cipher_project.py)
 
 **Cyber Application Projects** 
 - **Honeypot TCP Server:** This project implements a simple TCP honeypot designed to detect and log unauthorized or suspicious connection attempts. It simulates a network service to attract potential attackers, capturing connection metadata and payload snippet for analysis. This aids in understanding attack behavior, reconnaissance patterns, and early threat detection. [(honeypot.py)](honeypot.py)
